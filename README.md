@@ -15,3 +15,10 @@ once packages installed...
 yarn dev
 
 ```
+project is ready to go...
+
+```build
+
+yarn build
+
+```
